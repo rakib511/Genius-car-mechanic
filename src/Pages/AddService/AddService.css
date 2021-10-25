@@ -1,0 +1,16 @@
+.all-item form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.all-item form input{
+    width: 40%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.all-item form textarea{
+    width: 40%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
